@@ -8,3 +8,8 @@
                     __/ |                     
                    |___/                      
 ```
+<p align="center">
+  <a href="https://kangurus.com">
+    <img width="300" src="https://raw.githubusercontent.com/KangurusStudios/.github/refs/heads/main/profile/cube.svg">
+  </a>
+</p>
